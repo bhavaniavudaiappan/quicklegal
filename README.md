@@ -26,5 +26,5 @@
 
 ### 1. Clone this repository
 ```bash
-git clone https://github.com/your-username/quicklegal.git
+git clone https://github.com/bhavaniavudaiappan/quicklegal.git
 cd quicklegal
